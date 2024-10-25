@@ -1,0 +1,16 @@
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\bin\Debug\net6.0-windows\MySSLWebServer.exe
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\bin\Debug\net6.0-windows\MySSLWebServer.deps.json
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\bin\Debug\net6.0-windows\MySSLWebServer.runtimeconfig.json
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\bin\Debug\net6.0-windows\MySSLWebServer.dll
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\bin\Debug\net6.0-windows\MySSLWebServer.pdb
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.Form1.resources
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.csproj.GenerateResource.cache
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.AssemblyInfoInputs.cache
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.AssemblyInfo.cs
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.csproj.CoreCompileInputs.cache
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.dll
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\refint\MySSLWebServer.dll
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.pdb
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\MySSLWebServer.genruntimeconfig.cache
+C:\Users\paulp\source\repos\MySSLWebServer\MySSLWebServer\obj\Debug\net6.0-windows\ref\MySSLWebServer.dll
